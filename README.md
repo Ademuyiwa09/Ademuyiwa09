@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... ademuyiwatitilayo59@gmail.com
 - 😄 Pronouns: she/her...
-- ⚡ Fun fact: ... easygoing person 
+- ⚡ Fun fact: ... easygoing person.
 
 <!---
 Ademuyiwa09/Ademuyiwa09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
