@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ademuyiwa09
-- 👀 I’m interested in ... becoming a software/web developer 
+- 👋 Hi, I’m @Ademuyiwa
+- 👀Learning to be a Front-end developer 
 - 🌱 I’m currently learning ... computer programs
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... ademuyiwatitilayo59@gmail.com
